@@ -1,0 +1,2 @@
+# Classic-Models-Sales-Dashboard-Power-BI-Project-
+A Power BI–based business intelligence project analyzing sales performance across countries, product lines, and time periods. Showcases skills in data modeling, DAX, and interactive dashboard design. Highlights expertise in transforming raw business data into visual insights on revenue, profit, and sales trends to support strategic decision-making.
